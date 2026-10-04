@@ -1,0 +1,7 @@
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\obj\Debug\Tarea 3 Analizar antes de programar - Caso 1.csproj.AssemblyReference.cache
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\obj\Debug\Tarea 3 Analizar antes de programar - Caso 1.csproj.CoreCompileInputs.cache
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\bin\Debug\Tarea 3 Analizar antes de programar - Caso 1.exe.config
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\bin\Debug\Tarea 3 Analizar antes de programar - Caso 1.exe
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\bin\Debug\Tarea 3 Analizar antes de programar - Caso 1.pdb
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\obj\Debug\Tarea 3 Analizar antes de programar - Caso 1.exe
+C:\Users\keylo\Desktop\Universidad\Cuatrimestre III 2026\Programación II\Tarea 3 Analizar antes de programar - Caso 1\obj\Debug\Tarea 3 Analizar antes de programar - Caso 1.pdb
